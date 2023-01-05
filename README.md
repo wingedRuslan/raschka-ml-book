@@ -3,22 +3,8 @@
 ##  Code Repository
 
 
-Paperback: 770 pages  
-Publisher: Packt Publishing  
-Language: English
-
-ISBN-10: 1801819319   
-ISBN-13: 978-1801819312  
-Kindle ASIN: B09NW48MR1  
-
-[<img src="./.other/cover_1.jpg" width="248">](https://www.amazon.com/Machine-Learning-PyTorch-Scikit-Learn-scikit-learn-ebook-dp-B09NW48MR1/dp/B09NW48MR1/)
-
-
-
 ## Links
 
-- [Amazon link](https://www.amazon.com/Machine-Learning-PyTorch-Scikit-Learn-scikit-learn-ebook-dp-B09NW48MR1/dp/B09NW48MR1/) 
-- [Packt link](https://www.packtpub.com/product/machine-learning-with-pytorch-and-scikit-learn/9781801819312)
 - [Blog post summarizing the contents](https://sebastianraschka.com/blog/2022/ml-pytorch-book.html)
 
 
