@@ -117,4 +117,11 @@ or
 pip install jupyterlab
 ```
 
-All code examples found in this book are also available via .py script files (which were converted from the Jupyter notebooks to ensure that they contain the identical code.)
+All code examples found in this book are also available via .py script files (which were converted from the Jupyter notebooks to ensure that they contain the identical code.)  
+
+### Make sure the conda env visible in jupyter notebook  
+
+```bash
+# conda install -c anaconda ipykernel
+python -m ipykernel install --user --name=<INSERT_NAME_CONDA_ENV>
+```
