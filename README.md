@@ -10,12 +10,9 @@
 
 ## Table of Contents and Code Notebooks
 
-**Helpful installation and setup instructions can be found in the [README.md file of Chapter 1](ch01/README.md)**
+**Helpful installation and setup instructions can be found in the [README.md file of Chapter 1](ch01-ml-general-info/README.md)**
 
-**Please note that these are just the code examples accompanying the book, which we uploaded for your convenience; be aware that these notebooks may not be useful without the formulae and descriptive text.**   
-
-
-1. Machine Learning - Giving Computers the Ability to Learn from Data [[open dir](ch01)] 
+1. Machine Learning - Giving Computers the Ability to Learn from Data [[open dir](ch01-ml-general-info/README.md)] 
 2. Training Machine Learning Algorithms for Classification [[open dir](ch02)] 
 3. A Tour of Machine Learning Classifiers Using Scikit-Learn [[open dir](ch03)] 
 4. Building Good Training Sets – Data Pre-Processing [[open dir](ch04)] 
@@ -56,14 +53,5 @@ Sebastian Raschka, Yuxi (Hayden) Liu, and Vahid Mirjalili. *Machine Learning wit
 
 ## Coding Environment
 
+Please see the [ch01/README.md](ch01-ml-general-info/README.md) file for setup recommendations.
 
-
-Please see the [ch01/README.md](ch01/README.md) file for setup recommendations.
-
-
-
-
-## Translations into other Languages
-
-- Serbian Translation: [Mašinsko učenje uz PyTorch i Scikit-Learn](https://knjige.kombib.rs/masinsko-ucenje-uz-pytorch-i-scikit-learn).
-ISBN: 9788673105772
