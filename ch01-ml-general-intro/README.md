@@ -25,12 +25,6 @@ from the main folder in this repository.
 
 ## Setting Up Your Python Environment (Manually)
 
-This chapter does not contain any code examples, but we recommend you to set up and check your Python before you proceed with the next chapters.
-
-For more detailed setup instructions, please refer to the section ***Installing Python and packages from the Python Package Index*** in Chapter 1.
-
-
-
 **Conda**
 
 If you are using conda (we recommend installing conda via [Miniforge](https://github.com/conda-forge/miniforge)), you can create a new environment as follows:
@@ -55,7 +49,7 @@ If you prefer using `pip`, you can go ahead and install the required packages vi
 pip install numpy==1.21.2 scipy==1.7.0 scikit-learn==1.0 matplotlib==3.4.3 pandas==1.3.2
 ```
 
-However, we additionally recommend creating a new virtual environment for this book. 
+However, we additionally recommend creating a new virtual environment. 
 You can create a new virtual environment with a specific Python version using [virtualenv](https://virtualenv.pypa.io/en/latest/) as follows:
 
 ```bash
@@ -79,7 +73,7 @@ pip install numpy==1.21.2 scipy==1.7.0 scikit-learn==1.0 matplotlib==3.4.3 panda
 
 ## Checking Your Python Environment
 
-To verify that your Python environment is set up for the following chapters, we recommend running the [`../python_environment_check.py`](../python_environment_check.py) script provided in the main folder of this repository.
+To verify that your Python environment is set up, run the [`../python_environment_check.py`](../python_environment_check.py) script provided in the main folder of this repository.
 
 You can run the `python_environment_check.py` script via
 
@@ -101,7 +95,6 @@ Shown below is an example output:
 
 ## Jupyter Notebooks
 
-Some readers were wondering about the .ipynb of the code files contained in this repository -- these files are Jupyter notebooks (formerly known as IPython notebooks).
 
 Compared to regular .py scripts, Jupyter notebooks allow us to have everything in one place:
 
@@ -112,9 +105,6 @@ Compared to regular .py scripts, Jupyter notebooks allow us to have everything i
 
 Please see the https://jupyter.org/install website for the latest installation instructions.
 
-Two official applications can open Jupyter notebooks: the original Jupyter Notebook app and the newer Jupyter Lab app (and VS Code has Jupyter notebook support, too). The notebooks provided in this repository are compatible with both.
-
-We recommend installing Jupyter Lab via
 Jupyter Lab can be installed via 
 
 ```bash
@@ -127,4 +117,4 @@ or
 pip install jupyterlab
 ```
 
-Finally, please note that the Jupyter notebooks provided in this repository are optional, although we highly recommend them. All code examples found in this book are also available via .py script files (which were converted from the Jupyter notebooks to ensure that they contain the identical code.)
+All code examples found in this book are also available via .py script files (which were converted from the Jupyter notebooks to ensure that they contain the identical code.)
